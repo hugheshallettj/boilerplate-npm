@@ -1,8 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jacob James Hughes-Hallett",
+	"description": "This is the description of the package. This is for the FCC challenges",
+	"keywords": ["freecodecamp","challenge","tutorial"],
+	"license": "LICENCE",
+	"version": "1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.18.2"
 	},
 	"main": "server.js",
 	"scripts": {
